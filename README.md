@@ -35,7 +35,3 @@ This project showcases **efficient route planning** through **stack-based backtr
 ✅ **Final Route Summary & Output**  
 - Displays the **visited provinces sequence**, **total distance covered**, and **priority status**.  
 - **Alerts if priority provinces are missed**.  
-
----
-
-## 📂 Project Structure  
